@@ -19,5 +19,8 @@ Decision Tree.
 
 Decision Tree with cross-validation
 
+Random Forest
 
-5.Polynmial Regression Model performed best among the five models with test R2 score of 87.70 %.
+5.Hyperparameter tuning was performed on model using Grid Search CV to get best parameters and best scores.
+
+6.Random Forest Model performed best among the five models with test R2 score of 89.60 %.
